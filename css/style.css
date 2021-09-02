@@ -306,7 +306,7 @@ a {
 
 /*---------------- heroarea -------------------*/
 .heroarea {
-  background: url(../../img/hero.jpg) no-repeat top center/cover;
+  background: url(../img/hero.jpg) no-repeat top center/cover;
   height: 768px;
   position: relative;
   -webkit-box-sizing: content-box;
@@ -825,7 +825,7 @@ a {
   margin-bottom: 65px;
   margin-left: 70px;
   margin-right: 70px;
-  background: url(../../img/bg-face.png) no-repeat center center;
+  background: url(../img/bg-face.png) no-repeat center center;
   background-size: contain;
 }
 .company__inner {
@@ -842,7 +842,7 @@ a {
   margin: 0 auto;
   text-align: center;
   height: 615px;
-  background: url(../../img/bg-circle.png) no-repeat center center/contain;
+  background: url(../img/bg-circle.png) no-repeat center center/contain;
 }
 .company__body {
   margin: 0 auto;
@@ -1280,7 +1280,7 @@ a {
 }
 
 .recruit-page {
-  background: url(../../img/bg-geometry.png) repeat top center/50%;
+  background: url(../img/bg-geometry.png) repeat top center/50%;
 }
 
 .recruit-concept {
@@ -1605,7 +1605,7 @@ a {
     line-height: 1.25;
   }
   .heroarea {
-    background: url(../../img/hero.jpg) no-repeat center center/cover;
+    background: url(../img/hero.jpg) no-repeat center center/cover;
   }
   .heroarea__inner {
     text-align: left;
@@ -1730,7 +1730,7 @@ a {
     max-width: 100%;
     margin: 0;
     padding: 0 11px;
-    background: url(../../img/bg-circle.png) no-repeat center right/cover;
+    background: url(../img/bg-circle.png) no-repeat center right/cover;
   }
   .company__inner {
     display: block;
